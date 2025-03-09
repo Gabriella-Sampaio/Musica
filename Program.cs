@@ -10,28 +10,27 @@ Console.ResetColor();
 
 Console.WriteLine(); 
 
-Console.Write("How can you see "); Thread.Sleep(2300);
-Console.WriteLine("into my eyes"); Thread.Sleep(2300);
-Console.WriteLine("Like open doors?"); Thread.Sleep(2800);
-Console.WriteLine("Leading you down "); Thread.Sleep(2300);
-Console.WriteLine("into my core"); Thread.Sleep(2300);
-Console.WriteLine("Where I've become so numb"); Thread.Sleep(2800);
+Console.Write("How can you see "); Thread.Sleep(1500);
+Console.WriteLine("into my eyes"); Thread.Sleep(1500);
+Console.WriteLine("Like open doors?"); Thread.Sleep(1800);
+Console.WriteLine("Leading you down "); Thread.Sleep(1500);
+Console.WriteLine("into my core"); Thread.Sleep(1500);
+Console.WriteLine("Where I've become so numb"); Thread.Sleep(2000);
 
 Console.WriteLine();
 
-Console.WriteLine("Without a soul"); Thread.Sleep(2800);
-Console.Write("My spirit's sleeping "); Thread.Sleep(2300);
-Console.WriteLine("somewhere cold"); Thread.Sleep(2300);
-Console.Write("Until you find it "); Thread.Sleep(2300);
-Console.WriteLine("there and lead"); Thread.Sleep(2300);
-Console.WriteLine("And back"); Thread.Sleep(2300);
+Console.WriteLine("Without a soul"); Thread.Sleep(2000);
+Console.Write("My spirit's sleeping "); Thread.Sleep(1500);
+Console.WriteLine("somewhere cold"); Thread.Sleep(1500);
+Console.Write("Until you find it "); Thread.Sleep(1500);
+Console.WriteLine("there and lead"); Thread.Sleep(1500);
+Console.WriteLine("And back"); Thread.Sleep(1500);
 Console.Write("Home"); Thread.Sleep(1000);
 Console.Write("."); Thread.Sleep(1000);
 Console.Write("."); Thread.Sleep(1000);
 Console.WriteLine("."); Thread.Sleep(800);
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.BackgroundColor = ConsoleColor.Blue;
 Console.ForegroundColor = ConsoleColor.Black;
@@ -79,15 +78,14 @@ Console.Write("."); Thread.Sleep(1000);
 Console.WriteLine("."); Thread.Sleep(1500);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
-Console.Write("Now that I know "); Thread.Sleep(2300);
-Console.WriteLine("what I'm without"); Thread.Sleep(2300);
-Console.WriteLine("You can't just leave me"); Thread.Sleep(2500);
-Console.Write("Breathe "); Thread.Sleep(2300);
-Console.Write("into me "); Thread.Sleep(2300);
-Console.WriteLine("and make me real"); Thread.Sleep(2300);
+Console.Write("Now that I know "); Thread.Sleep(1500);
+Console.WriteLine("what I'm without"); Thread.Sleep(1500);
+Console.WriteLine("You can't just leave me"); Thread.Sleep(1800);
+Console.Write("Breathe "); Thread.Sleep(1500);
+Console.Write("into me "); Thread.Sleep(1500);
+Console.WriteLine("and make me real"); Thread.Sleep(1800);
 
 Console.WriteLine("Bring"); Thread.Sleep(1500);
 Console.WriteLine("Me"); Thread.Sleep(1500);
@@ -96,8 +94,7 @@ Console.Write("."); Thread.Sleep(1000);
 Console.Write("."); Thread.Sleep(1000);
 Console.WriteLine("."); Thread.Sleep(1500);
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("WAKE ME UP"); Thread.Sleep(1500); 
@@ -142,16 +139,14 @@ Console.Write("to "); Thread.Sleep(1500);
 Console.Write("life"); Thread.Sleep(1000);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("I've been livin' a lie"); Thread.Sleep(2000);
 Console.WriteLine("There's nothing inside"); Thread.Sleep(2000);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.Cyan; 
 Console.Write("Bring "); Thread.Sleep(1500);
@@ -163,8 +158,7 @@ Console.Write("."); Thread.Sleep(800);
 Console.WriteLine("."); Thread.Sleep(800);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.WriteLine("Froooozen inside"); Thread.Sleep(2300);
 Console.WriteLine("Without your touch"); Thread.Sleep(2300);
@@ -178,8 +172,7 @@ Console.Write("."); Thread.Sleep(800);
 Console.Write("."); Thread.Sleep(800);
 Console.WriteLine("."); Thread.Sleep(800);
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("All this time, I can't believe I couldn't see"); Thread.Sleep(2000);
@@ -208,8 +201,7 @@ Console.Write("."); Thread.Sleep(800);
 Console.WriteLine("."); Thread.Sleep(800);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.BackgroundColor = ConsoleColor.Blue;
 Console.ForegroundColor = ConsoleColor.Black;
@@ -257,8 +249,7 @@ Console.Write("."); Thread.Sleep(1000);
 Console.WriteLine("."); Thread.Sleep(1500);
 Console.ResetColor();
 
-Console.WriteLine();
-Console.WriteLine();
+Console.Clear();
 
 Console.ForegroundColor = ConsoleColor.Cyan; 
 Console.Write("Bring "); Thread.Sleep(1500);
